@@ -1,0 +1,45 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "react.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+   
+    {
+      "src": "portifolio logo.PNG",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "css-3.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },{
+      "src": "html-5.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },{
+      "src": "pexels-johnmark-smith-281962.jpg",
+      "type": "image/png",
+      "sizes": "512x512"},{
+      "src": "connect.jpg",
+      "type": "image/png",
+      "sizes": "512x512"},{
+      "src": "William_Muhuni_Leaving_Certificate.pdf",
+      "type": "image/png",
+      "sizes": "512x512"},{
+      "src": "angular.PNG",
+      "type": "image/png",
+      "sizes": "512x512"},{
+      "src": "git.PNG",
+      "type": "image/png",
+      "sizes": "512x512"}
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
