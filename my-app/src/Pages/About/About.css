@@ -1,0 +1,17 @@
+.sectiontopic {
+  color: #2c3e50;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.paraSec {
+  font-size: 1rem;
+  color: #444;
+  line-height: 1.7;
+}
+
+.imageSection {
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}

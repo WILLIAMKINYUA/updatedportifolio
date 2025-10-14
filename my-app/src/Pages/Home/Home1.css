@@ -1,0 +1,33 @@
+:root{
+    --dark-purple:#202330;
+    --light-purple:#7b84aa;
+    --dark-new:#46474e;}
+
+.homepage{
+    background: var(--dark-new);
+    height: 50vh;
+}
+.img{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 7rem;
+    
+}
+.img img {
+    width: 10rem;
+    border-radius: 50%;
+     background:linear-gradient(180deg, var(--light-purple));
+  
+}
+.content{
+ color: #fff;
+ text-transform: uppercase;
+ justify-content: center;
+ align-items: center;
+  
+}
+.content:hover {
+  color: orange;
+  padding: auto;
+}
